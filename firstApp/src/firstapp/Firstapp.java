@@ -7,6 +7,8 @@ public class Firstapp {
         myAccount.addFunds(150);
         System.out.println(myAccount.getLastTransaction());
         System.out.println( myAccount.getBalance());
+        System.out.println( myAccount.getBalance());
+        
         
     }
 
